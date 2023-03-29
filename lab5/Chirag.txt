@@ -1,0 +1,6 @@
+Registration Number: 157
+Name: Chirag
+Email: chirag@gmail.com
+Phone: 876773679838
+Class: DS
+Department: Data Science
