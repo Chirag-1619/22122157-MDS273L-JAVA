@@ -16,7 +16,7 @@ class lab1 {
         Gender = scan.nextLine().charAt(0);
         if(Gender=='M'){
             System.out.println("Gender: Male");
-        }else if (Gender=='F'){X
+        }else if (Gender=='F'){
             System.out.println("Gender : Female ");
         }else{
             System.out.println("Enter a valid choice!!");
