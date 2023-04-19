@@ -1,6 +1,6 @@
 Registration Number: 157
-Name: Chirag
+Name: chirag
 Email: chirag@gmail.com
-Phone: 76345376438
-Class: Msc
+Phone: 98380398403
+Class: 
 Department: DS

@@ -1,0 +1,74 @@
+Create a student class, that will store the details of the Student
+Reg. No.
+Name
+Email
+Phone
+Class
+Department
+The class will have a constructor to initialize the values of the Student and a method to print the Details of the Student.
+
+In the main-method class, create an array of Student Class to hold maximum details of 100 Students.
+In the menu-driven program, the menu options will have
+Add a student
+Adds the details of 1 student to the array of Student
+Search for a student
+Search for the details of a student from the array of Student
+(Optional) Searching can be done with Name & Register Number
+Display all students
+Displays the details of all students
+
+Output: 
+
+Menu:
+1. Add a student       
+2. Search for a student
+3. Display all students
+4. Exit
+Enter your choice: 1
+Enter registration number: 157
+Enter name: chirag
+Enter email: chirag@gmail.com
+Enter phone: 98380398403
+Enter class: 
+Enter department: DS
+Student added successfully!
+Menu:
+1. Add a student
+2. Search for a student
+3. Display all students
+4. Exit
+Enter your choice: 2
+Search for a student:
+1. By name
+2. By registration number
+Enter your choice:
+1
+Enter name to search: chirag 
+Registration Number: 157
+Name: chirag
+Email: chirag@gmail.com
+Phone: 98380398403
+Class:
+Department: DS
+Menu:
+1. Add a student
+2. Search for a student
+3. Display all students
+4. Exit
+Enter your choice: 3
+Details of all students:
+
+Registration Number: 157
+Name: chirag
+Email: chirag@gmail.com
+Phone: 98380398403
+Class:
+Department: DS
+------------------------
+Menu:
+1. Add a student
+2. Search for a student
+3. Display all students
+4. Exit
+Enter your choice: 4
+Exiting program...
